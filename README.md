@@ -48,9 +48,6 @@ A simple yet visually appealing countdown timer desktop application built using 
 3. View the countdown and elapsed time in real-time.
 4. Receive notifications when the time is up.
 
-## Screenshot
-
-![Countdown Timer Interface](screenshot.png)
 
 ## Contributing
 
