@@ -51,11 +51,11 @@ A simple yet visually appealing countdown timer desktop application built using 
 
 ## Contributing
 
-Feel free to fork the repository and make improvements. Pull requests are welcome!
+Feel free to fork the repository and make improvements. Pull requests are welcome.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details!
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
